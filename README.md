@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Animated header -->
 <a href="https://github.com/allanpusta13">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Back-end+web+developer;Laravel+%C2%B7+Filament+%C2%B7+Livewire;Legacy+PHP+modernization;Building+carefully%2C+learning+always." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Subtle divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
 
 <h3>Zamboanga City, Philippines · 9+ years building and modernizing web systems</h3>
@@ -68,13 +66,13 @@ to solve problems I actually have.
 <tr>
 <td width="50%" valign="top">
 
-**Laravel + Filament apps**
+**🧱 Laravel + Filament apps**
 Multi-tenant, role-based, built to last.
 
 </td>
 <td width="50%" valign="top">
 
-**Legacy modernization**
+**🔧 Legacy modernization**
 PHP5 → PHP8, without full rewrites.
 
 </td>
@@ -82,13 +80,13 @@ PHP5 → PHP8, without full rewrites.
 <tr>
 <td width="50%" valign="top">
 
-**Ledger-based systems**
+**📒 Ledger-based systems**
 Inventory and payments derived from immutable logs.
 
 </td>
 <td width="50%" valign="top">
 
-**Offline-first design**
+**📴 Offline-first design**
 Service workers, outbox patterns, idempotency.
 
 </td>
@@ -101,15 +99,8 @@ Service workers, outbox patterns, idempotency.
 
 ## 📌 A few things I've built
 
-### 🍽️ Artisan POS & Kitchen System
-> Restaurant management platform — customer storefront, cashier POS, kitchen display, inventory ledger, and admin back office in one real-time app. Built to run my own food-service business.
->
-> `Laravel 13` · `React 19` · `Inertia` · `Tailwind` · `PostgreSQL`
-
-### 🏢 Multi-Company POS
-> Laravel scaffold for multi-company point-of-sale and stock management — permissions, roles, and multi-tenant structure.
->
-> `Laravel` · `Spatie Permission` · `MySQL`
+<!-- FEATURED-START -->
+<!-- FEATURED-END -->
 
 <br/>
 
@@ -134,11 +125,18 @@ Service workers, outbox patterns, idempotency.
 
 ## 💭 How I work
 
-> I try to write code the next person can read.
-> I read before I refactor. I test the wrong path, not just the right one.
-> And I keep learning — because the work keeps requiring it.
+<div align="center">
+
+> *I try to write code the next person can read.*
+> *I read before I refactor.*
+> *I test the wrong path, not just the right one.*
+> *And I keep learning — because the work keeps requiring it.*
+
+</div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
 
 ## 📫 Get in touch
 
