@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/allanpusta13">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Back-end+web+developer;Laravel+%C2%B7+Filament+%C2%B7+Livewire;Legacy+PHP+modernization;Building+carefully%2C+learning+always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Back-end+web+developer;Laravel+%C2%B7+Filament+%C2%B7+Livewire;Legacy+PHP5+to+PHP8+modernization;Building+carefully%2C+learning+always." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,13 +16,9 @@
 
 ## 👋 A little about me
 
-I've spent the last nine years building, maintaining, and modernizing
-web and enterprise applications — mostly for other people's businesses,
-and lately for my own.
+I've spent the last nine years building, maintaining, and modernizing web and enterprise applications — mostly for other people's businesses, and lately for my own.
 
-Most of that work lives on client-owned repositories, so what you'll
-find here is my personal work: the projects I build to stay sharp and
-to solve problems I actually have.
+Most of that work lives on client-owned repositories, so what you'll find here is my personal work: the projects I build to stay sharp and to solve problems I actually have.
 
 <br/>
 
@@ -34,25 +30,23 @@ to solve problems I actually have.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
 
 **Front end**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Data & tooling**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -99,8 +93,30 @@ Service workers, outbox patterns, idempotency.
 
 ## 📌 A few things I've built
 
-<!-- FEATURED-START -->
-<!-- FEATURED-END -->
+### 🍽️ Artisan POS & Kitchen System
+> Restaurant management platform — customer storefront, cashier POS, kitchen display, inventory ledger, and admin back office in one real-time app.
+>
+> `Laravel 13` · `React 19` · `Inertia` · `Tailwind` · `PostgreSQL`
+
+<a href="https://github.com/allanpusta13/artisan-pos-kitchen-system">
+  <img src="https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<details>
+<summary><b>🏢 Multi-Company POS</b> — early-stage scaffold, expand for details</summary>
+<br/>
+
+An earlier exploration of multi-company, multi-branch POS and stock management — permissions, roles, and multi-tenant structure. Not a finished product; kept public as a record of the thinking that later shaped Artisan POS.
+
+`Laravel` · `Spatie Permission` · `Inertia/React`
+
+<a href="https://github.com/allanpusta13/multi-company-pos2">
+  <img src="https://img.shields.io/badge/View_Repository-8B949E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</details>
 
 <br/>
 
@@ -110,12 +126,12 @@ Service workers, outbox patterns, idempotency.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=allanpusta13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=allanpusta13&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanpusta13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allanpusta13&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=allanpusta13&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -160,5 +176,5 @@ Service workers, outbox patterns, idempotency.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
 
 <div align="center">
-  <sub>Currently running Eizcee Food Corner and building the systems that run it.</sub>
+  <sub>Currently running Eizcee Food Corner, and building the kind of systems I'd want running it.</sub>
 </div>
